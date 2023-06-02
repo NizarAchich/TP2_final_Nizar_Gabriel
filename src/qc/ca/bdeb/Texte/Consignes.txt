@@ -1,0 +1,26 @@
+
+                                     Bienvenue au jeu de cartes de mémoire !
+
+        Voici les consignes pour jouer :
+
+     1. Objectif : Le but du jeu est de trouver toutes les paires de cartes identiques.
+
+     2. Mise en place : Mélangez les cartes et placez-les face cachée sur la table.
+
+     3. Tour de jeu :
+
+            -Le joueur retourne deux cartes de son choix, en les retournant face visible.
+            -Si les deux cartes retournées sont identiques, le joueur les conserve et c'est à nouveau à son tour de jouer.
+            -Si les cartes retournées ne sont pas identiques, le joueur les retourne face cachée à leur position initiale.
+            -Le jeu passe ensuite au joueur suivant.
+
+     4. Mémoire : Le jeu fait appel à votre mémoire pour vous rappeler les emplacements des cartes retournées précédemment.
+
+     5. Fin de partie : Le jeu se poursuit jusqu'à ce que toutes les paires de cartes aient été trouvées.
+     Le joueur ayant trouvé le plus grand nombre de paires remporte la partie.
+
+     Conseils :
+
+	    Soyez attentif et essayez de mémoriser les emplacements des cartes retournées pour augmenter vos chances de trouver des paires.
+	    Concentrez-vous sur les cartes déjà retournées pour éviter de retourner des cartes déjà vues.
+	    Prêt à exercer votre mémoire et à relever le défi ? Bonne chance et amusez-vous bien !
